@@ -28,21 +28,21 @@
 },
 "Project1": {
     "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "This is a Polynomial Project, it stores and reads to the user Polynomial coefficients<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Desc": "This is a Polygon Project, it stores and represents a 2d Polygon shapped image made up of data points.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "This is a C-String Project which uses Linked Lists to store data in the form of a C-String.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
