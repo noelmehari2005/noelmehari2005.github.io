@@ -6,3 +6,6 @@ A site displaying my passion projects and qualifications.
 
 
 Currently an SPU senior soon to graduate in summer of 2027 with a Bachelors in Computer Science. 
+
+
+Linkedin: https://www.linkedin.com/in/noel-mehari
